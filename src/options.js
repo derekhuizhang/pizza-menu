@@ -24,7 +24,7 @@ export const menuOptions = [
 			to the traditional mix of tomato sauce and cheese, sometimes with 
 			ham or sometimes with bacon, soon became popular locally and eventually 
 			became a staple offering of pizzerias around the world. (Source: Wikipedia)
-			`
+		`
 	},
 	{
 		id: 3,
@@ -54,7 +54,8 @@ export const menuOptions = [
 		name: 'veggie',
 		image: 'https://i.imgur.com/UiyQmnV.jpg',
 		title: 'Veggie Pizza',
-		description: `Veggie Pizza is the ultimate party food: 
+		description: `
+			Veggie Pizza is the ultimate party food: 
 			Always a hit, never any leftovers! It’s also the tastiest 
 			way to eat vegetables, ever. So here’s the thing about 
 			classic recipes such as Veggie Pizza: They really ought 
